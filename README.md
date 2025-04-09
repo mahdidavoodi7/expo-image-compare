@@ -2,7 +2,7 @@
 
 A customizable, animated before-after image comparison slider built for React Native & Expo — using Reanimated 3 and Gesture Handler.
 
-![Compare Gif](https://github-production-user-asset-6210df.s3.amazonaws.com/29153345/431743984-d2385eaf-9a5e-4fdc-8c00-fc5510e69ba1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250409T082233Z&X-Amz-Expires=300&X-Amz-Signature=5db3a13814d18e5cadc14b35b91b59fb4941d771faf81aa0ac6a5b76567e24fc&X-Amz-SignedHeaders=host)
+![Image](https://github.com/user-attachments/assets/5cbcdcf6-2fba-4279-858d-dfb895f78f2e)
 
 ## ✨ Features
 
