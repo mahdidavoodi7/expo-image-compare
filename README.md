@@ -1,8 +1,24 @@
-# expo-image-compare
+<h1 align="center">
+    expo-image-compare
+</h1>
 
-A customizable, animated before-after image comparison slider built for React Native & Expo — using Reanimated 3 and Gesture Handler.
+<p align="center">
+  A customizable, animated before-after image comparison slider built for React Native & Expo — using Reanimated 3 and Gesture Handler.
+</p>
 
-![Image](https://github.com/user-attachments/assets/5cbcdcf6-2fba-4279-858d-dfb895f78f2e)
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="expo-image-compare is released under the MIT license." />
+  <a href="https://www.npmjs.org/package/expo-image-compare">
+    <img src="https://img.shields.io/npm/v/expo-image-compare" alt="Current npm package version." />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=mehdi_made">
+    <img src="https://img.shields.io/twitter/follow/mehdi_made.svg?label=Follow%20@mehdi_made" alt="Follow @mehdi_made" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5cbcdcf6-2fba-4279-858d-dfb895f78f2e" alt="Current npm package version." />
+</p>
 
 ## ✨ Features
 
