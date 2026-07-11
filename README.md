@@ -2,6 +2,12 @@
     expo-image-compare
 </h1>
 
+
+
+<p align="center">
+  A free drop from <b>Motionary</b>. The whole flock lives at https://motionary.dev.
+</p>
+
 <p align="center">
   A customizable, animated before-after image comparison slider built for React Native & Expo — using Reanimated 3 and Gesture Handler.
 </p>
@@ -82,6 +88,21 @@ import { BeforeAfterSlider } from 'expo-before-after-slider';
 - Custom easing support
 
 
-## 📄 License
+## Want the rest?
 
-Made with ❤️ by @mahdidavoodi7
+The paid catalog is at
+[motionary.dev](https://motionary.dev?utm_source=github&utm_medium=readme&utm_campaign=free_drop):
+the ChatGPT attachments menu, Apple Music lyrics, Flip Calendar, and every drop that
+comes next. Single drops around $10, or the Lifetime All-Access pass: one payment,
+every drop, every future drop.
+
+## Want a drop that doesn't exist yet?
+
+Open an issue and describe the interaction. The most-requested ones get built.
+
+## License
+
+MIT. Use it in anything, ship it, sell your app, no strings. If it saves you a day, a
+star helps other devs find this. 🐦‍⬛
+
+Built by [@mehdi_made](https://x.com/mehdi_made)
