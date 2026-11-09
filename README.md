@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  A free drop from <b>Motionary</b>. The whole flock lives at https://motionary.dev.
+  A free drop from <b>Motionary</b>. The whole flock lives at https://motionary.dev. Related: <a href="https://motionary.dev/animations/x-ray-reveal">X-Ray Reveal</a>.
 </p>
 
 <p align="center">
